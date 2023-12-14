@@ -30,6 +30,7 @@ function spend(){
         document.getElementById('productOne').value =""
         document.getElementById('priceOne').value ="" 
         error.style.display="none" 
+        mix.style.display="block"
         }
           
     }
